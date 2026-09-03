@@ -1,7 +1,7 @@
 {
-"name": "Ayush",
+"name": "Emma Olivia",
 "version": "10.1.1",
-"description": "A powerful Facebook Messenger Bot made by Ayush Jaat.",
+"description": "A powerful Facebook Messenger Bot made by Emma Olivia.",
 "main": "rudra.js",
 "engines": {
 "node": "20.x",
@@ -30,7 +30,7 @@
 "fb-bot",
 "ai"
 ],
-"author": "🛡️ Ayush Jaat",
+"author": "🛡️ Emma Olivia",
 "license": "GPL-3.0",
 "dependencies": {
 "@distube/ytdl-core": "^4.16.5",
