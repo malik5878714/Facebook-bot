@@ -8,14 +8,14 @@
   {
     "version": "10.1.0",
     "files": {
-      "Ayush/commands/ai.js": "update missing first later problem"
+      "Emma/commands/ai.js": "update missing first later problem"
     }
   },
   {
     "version": "10.2.0",
     "files": {
-      "Ayush/commands/rankcard.js": "rank update",
-      "Ayush/commands/cache/rankcard.png": "add photo",
+      "Emma/commands/rankcard.js": "rank update",
+      "Emma/commands/cache/rankcard.png": "add photo",
       "package.json": "update package"
     },
      "reinstallDependencies": true
