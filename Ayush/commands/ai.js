@@ -1,10 +1,10 @@
 const axios = require("axios");
 
 module.exports.config = {
-    name: "misha",
+    name: "Emma Olivia",
     version: "1.0.9",
     hasPermssion: 0,
-    credits: "Mirrykal)",
+    credits: "Emma Olivia)",
     description: "Gemini AI - Cute Girlfriend Style",
     commandCategory: "ai",
     usages: "[ask/on/off]",
