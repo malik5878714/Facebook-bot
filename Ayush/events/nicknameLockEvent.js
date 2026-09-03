@@ -19,7 +19,7 @@ module.exports.config = {
   name: "nicknameLockEvent",
   eventType: ["log:thread-nickname"], // यह स्पेसिफिक इवेंट टाइप को सुनता है
   version: "1.1", // Version updated
-  credits: "Ayush x ChatGPT"
+  credits: "Emma x ChatGPT"
 };
 
 module.exports.run = async function({ event, api }) {
