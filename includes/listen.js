@@ -10,7 +10,7 @@ module.exports = function({ api, models }) {
   var day = moment.tz("Asia/Kolkata").day();
   
   
-  const checkttDataPath = __dirname + '/../Ayush/commands/checktt/';
+  const checkttDataPath = __dirname + '/../Emma/commands/checktt/';
   setInterval(async() => {
     const day_now = moment.tz("Asia/Kolkata").day();
     if (day != day_now) {
