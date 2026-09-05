@@ -5,7 +5,7 @@ module.exports.config = {
 
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "Emma Olivia",
+	credits: "𝐄𝐌𝐌𝐀 𝐎𝐋𝐈𝐕𝐈𝐀",
 	description: "Comment on table ( ͡° ͜ʖ ͡°)",
 	commandCategory: "edit-img",
 	usages: "google [text]",
